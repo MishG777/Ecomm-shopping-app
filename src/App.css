@@ -2,7 +2,6 @@ a {
   text-decoration: none !important;
   color: inherit !important;
   display: flex;
-  border: 2px solid red;
   /*justify-content: center;*/
   align-items: center;
   /*color: white !important;*/
